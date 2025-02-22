@@ -1,0 +1,8 @@
+# Ignore the virtual environment directory
+venv/
+
+# Ignore the ideas.txt file
+ideas.txt
+
+# Ignore the resources directory
+resources/
